@@ -91,7 +91,7 @@ Reddit-Pipeline/
 3. Commit your changes and push to your branch:
     ```bash
     git add .
-    git commit -m "Add new feature"
+    git commit -m "Add new feature" 
     git push origin feature-name
     ```
 4. Open a pull request.
@@ -101,3 +101,4 @@ Reddit-Pipeline/
 - Reddit API for providing data access.
 - AWS S3 for cloud storage.
 
+ 
